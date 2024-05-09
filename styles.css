@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(20, 20, 20);
+}
+.myContent{
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.header{
+    background-color: white;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 400px;
+    font-family: Poetsen One;
+}
+.body{
+    margin-top: -19px;
+    background-color:#EAEAEA;
+    padding-bottom: 20px;
+}
+.body > div{
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-bottom: 80px;
+	border-radius: 10px;
+    background-color: white;
+    border: 4px solid rgba(172, 172, 172, 0.8);
+}   
+
+.boxes h3{
+    margin-left: 14px;
+    font-family: Poetsen One;
+}
+
+.name-Date{
+    /*border: 3px solid rgba(10, 10, 10, 0.8);*/
+    padding-bottom: -8px;
+    display: flex;
+    margin-bottom: -2px;
+}
+
+.name{
+    /*border: 3px solid red;*/
+    width: 90%;
+}
+
+.date{
+    color: grey;
+    width: 10%;
+}
+
+
+.description{
+    padding-left: 14px;
+    font-family: Sedan SC;
+}
